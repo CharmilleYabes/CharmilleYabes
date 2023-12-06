@@ -17,7 +17,7 @@ I am a passionate coder with a skill for database management, dedicated to solvi
 
 ## Skill Sets 💻
 
-- **Programming Languages:** Java, JavaScript
+- **Programming Languages:** Java , JavaScript
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
