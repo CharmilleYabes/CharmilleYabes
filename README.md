@@ -24,12 +24,12 @@
   <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Java
   <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> JavaScript
 - **Databases:**
-  <br><img src="https://camo.githubusercontent.com/4851bcc90bf225a1a5a90cccc43ee3a2bdabb84010631a0d488b7e8a100cbc27/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f69626d2e706e67" alt="ibm" width="40" height="40"/> </a> IBM DB2 Cloud
+  <br> IBM DB2 Cloud
 - **Tools:**
   <br> Lucidchart
   <br> Jaspersoft Studio
-  <br><img src="https://camo.githubusercontent.com/9e1042fde4b254a49ff9cd9f4c01c7a6262dfc1f9c93f5ac91f7c94e3c3400e8/68747470733a2f2f696d672e69636f6e73382e636f6d2f6f66666963652f34382f3030303030302f6a6176612d65636c697073652e706e67"  alt="jeclipse" width="40" height="40"/> </a> Eclipse
-  <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> HTML
+  <br> Eclipse
+  <br> HTML
 
 ## Let's Connect! 🌐
 
