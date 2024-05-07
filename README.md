@@ -12,6 +12,7 @@
 
 ## Certifications 🏆
 
+- **[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/ccadc555ff074a79a9aab444a95e3faf#)**
 - **[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8BD3C5ECBE29E4A00B8709E2FD31B2BAC2AE2FA0E3E07CB5ABC06CAA4E29E186)**
 - **[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2741F494D3D99854E19718B34F483D7ACDEA7094E0D00D114A40FC3904DC113)**
 - **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=31F0B67C8B6240277862996F2942702EBA4BD0F75385B29A23C857B38F6259FA)**
