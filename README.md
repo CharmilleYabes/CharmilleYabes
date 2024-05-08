@@ -33,7 +33,7 @@
 
 ## Let's Connect! 🌐
 
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/charmille-yabes-9b4b98299)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/charmille-yabes-9b4b98299/)
 - **Email:** charmilleyabes9@gmail.com
 
 Feel free to reach out! I'm always open to interesting conversations and collaboration opportunities.
